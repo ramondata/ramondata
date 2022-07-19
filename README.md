@@ -1,6 +1,6 @@
-## Ramon Barbosa - Data scientist
+## Ramon Barbosa - Data engineering
 
-Job: Data Engineer at Accenture Brazil
+Job: Data Engineer at Semantix
 
 To see more, click on icon linkedin.
 
