@@ -9,8 +9,12 @@ My principal tech skill is progamming language and my favorite language to build
 
 <div align="center">
   <a href="https://github.com/ramondata">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondata&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondata&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div align="center">
+  <a href="https://www.codewars.com/users/ramondata/badges/large">
+  <img height="30" src="https://www.codewars.com/users/ramondata/badges/large"/>
+<div/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Ramon-scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
