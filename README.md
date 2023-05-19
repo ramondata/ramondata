@@ -35,6 +35,7 @@ I'm a Data Engineer in a Brazil Company deep tech listed in nasdaq!
   <img align="center" alt="Ramon-Hadoop" height="30" width="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png">
   <img align="center" alt="Ramon-Spark" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png">
   <img align="center" alt="Ramon-Docker" height="30" width="30" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.24.0/1677187109445/Microsoft.VisualStudio.Services.Icons.Default">
+  <img align="center" alt="Ramon-Mongodb" height="30" width="30" src="https://avatars.githubusercontent.com/u/45120?v=4">
 </div>
  </a> 
  
