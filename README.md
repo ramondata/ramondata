@@ -3,19 +3,6 @@ Ramon Barbosa - Senior Data Engineer
 
 *Welcome to my GitHub Repositories*
 
-I'm a Data Engineer in a Brazil Company deep tech listed in nasdaq!
-
-**Tech Skills:**
-- [x] Python
-- [x] Cloud
-- [x] SQL
-- [x] NOSQL
-- [x] Apache Airflow
-- [x] Apache Hadoop
-- [x] Apache Spark
-- [x] Shell Script - Linux
-- [x] Git
-- [x] Power BI 
 
 <div align="center">
   <a href="https://github.com/ramondata">
