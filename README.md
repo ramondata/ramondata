@@ -4,6 +4,11 @@ Ramon Barbosa - Senior Data Engineer
 *Welcome to my GitHub Repositories*
 
 
+![Static Badge](https://img.shields.io/badge/dev-python-blue?logo=python&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/database-sql-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/linux-bash-white?logo=linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/Apache-spark-white?logo=Apache%20Spark&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Apache-Airflow-red?logo=Apache%20Airflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws-lambda-orange?logo=awslambda&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-ec2-orange?logo=amazonec2&logoColor=orange)
+
+
+
+
 <div align="center">
   <a href="https://github.com/ramondata">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondata&layout=compact&langs_count=7&theme=dark"/>
