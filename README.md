@@ -3,6 +3,8 @@ Ramon Barbosa - Specialist Data Engineer
 
 *Welcome to my GitHub Repositories*
 
+I often use my github repositories to backup good codes to use again in the future. Instead write down i just type my reference code here now. 
+
 
 ![Static Badge](https://img.shields.io/badge/dev-python-blue?logo=python&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/python-pytest-blue?logo=pytest&logoColor=yellow)
  ![Static Badge](https://img.shields.io/badge/git-orange?logo=git&logoColor=white)
