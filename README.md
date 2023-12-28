@@ -8,6 +8,7 @@ I often use my github repositories to backup good codes to use again in the futu
 
 ![Static Badge](https://img.shields.io/badge/dev-python-blue?logo=python&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/python-pytest-blue?logo=pytest&logoColor=yellow)
  ![Static Badge](https://img.shields.io/badge/git-orange?logo=git&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/terraform-purple?logo=terraform&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/database-sql-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/macOS-white?logo=macos&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/windows-white?logo=windows11&logoColor=black)
  ![Static Badge](https://img.shields.io/badge/linux-bash-white?logo=linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white)
