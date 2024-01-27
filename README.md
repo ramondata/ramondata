@@ -2,9 +2,9 @@ Ramon Barbosa - Specialist Data Engineer
 ==================
 
 ## Software development 
-![Static Badge](https://img.shields.io/badge/dev-python-blue?logo=python&logoColor=yellow) 
+![Static Badge](https://img.shields.io/badge/dev-python-blue?logo=python&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/vim-green?logo=vim&logoColor=black) ![Static Badge](https://img.shields.io/badge/node.js-green?logo=nodedotjs&logoColor=black)
 ## DataBase
-
+![Static Badge](https://img.shields.io/badge/database-sql-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white) 
 ## Network
 
 ## Data Security
@@ -12,35 +12,35 @@ Ramon Barbosa - Specialist Data Engineer
 ## Data Modeling
 
 ## Orquestration
-
+![Static Badge](https://img.shields.io/badge/Apache-Airflow-red?logo=Apache%20Airflow&logoColor=white)
 ## IA
 
 ## Messaging
 
 ## Data Viz
-
+![Static Badge](https://img.shields.io/badge/powerbi-yellow?logo=powerbi&logoColor=black) 
 ## Repo
 ![Static Badge](https://img.shields.io/badge/git-orange?logo=git&logoColor=white)
 ## Software Architecture
-![Static Badge](https://img.shields.io/badge/python-pytest-blue?logo=pytest&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/python-pytest-blue?logo=pytest&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/macOS-white?logo=macos&logoColor=black) ![Static Badge](https://img.shields.io/badge/windows-white?logo=windows11&logoColor=black) ![Static Badge](https://img.shields.io/badge/linux-bash-white?logo=linux&logoColor=white) 
 ## Devops
 
 ## Cloud
-![Static Badge](https://img.shields.io/badge/terraform-purple?logo=terraform&logoColor=white)
+![Static Badge](https://img.shields.io/badge/terraform-purple?logo=terraform&logoColor=white) ![Static Badge](https://img.shields.io/badge/aws-lambda-orange?logo=awslambda&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-ec2-orange?logo=amazonec2&logoColor=orange) 
 ## Container
-
+![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white) 
 ## Big Data
+![Static Badge](https://img.shields.io/badge/Apache-hadoop-white?logo=apache%20Hadoop&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Apache-beam-white?logo=Apache&logoColor=orange) ![Static Badge](https://img.shields.io/badge/databricks-red?logo=databricks&logoColor=white) ![Static Badge](https://img.shields.io/badge/Apache-spark-white?logo=Apache%20Spark&logoColor=orange) 
 
+ 
+ 
+ 
+  
 
- 
- 
- 
- ![Static Badge](https://img.shields.io/badge/database-sql-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/macOS-white?logo=macos&logoColor=black)
-![Static Badge](https://img.shields.io/badge/windows-white?logo=windows11&logoColor=black)
- ![Static Badge](https://img.shields.io/badge/linux-bash-white?logo=linux&logoColor=white) ![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white)
- ![Static Badge](https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white) ![Static Badge](https://img.shields.io/badge/Apache-hadoop-white?logo=apache%20Hadoop&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Apache-beam-white?logo=Apache&logoColor=orange)
- ![Static Badge](https://img.shields.io/badge/databricks-red?logo=databricks&logoColor=white) ![Static Badge](https://img.shields.io/badge/powerbi-yellow?logo=powerbi&logoColor=black) ![Static Badge](https://img.shields.io/badge/vim-green?logo=vim&logoColor=black) ![Static Badge](https://img.shields.io/badge/node.js-green?logo=nodedotjs&logoColor=black) ![Static Badge](https://img.shields.io/badge/Apache-spark-white?logo=Apache%20Spark&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Apache-Airflow-red?logo=Apache%20Airflow&logoColor=white) 
- ![Static Badge](https://img.shields.io/badge/aws-lambda-orange?logo=awslambda&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-ec2-orange?logo=amazonec2&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-s3-orange?logo=amazons3&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-rds-orange?logo=amazonrds&logoColor=orange)
+   
+   
+       
+   ![Static Badge](https://img.shields.io/badge/aws-s3-orange?logo=amazons3&logoColor=orange) ![Static Badge](https://img.shields.io/badge/aws-rds-orange?logo=amazonrds&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/google-bigquery-blue?logo=amazonrds&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/google-storage-blue?logo=Google%20cloud%20Storage&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/google-cloud_run-blue?logo=googlecloud&logoColor=yellow) 
 ![Static Badge](https://img.shields.io/badge/google-composer-blue?logo=google%20cloud%20composer&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/google-compute_engine-blue?logo=amazon%20ec2&logoColor=yellow)
