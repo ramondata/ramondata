@@ -1,4 +1,4 @@
-Ramon Barbosa - Specialist Data Engineer
+Data Engineer
 ==================
 
 ## Software development 
